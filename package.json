@@ -1,0 +1,23 @@
+{
+  "name": "optimizely-oauth2",
+  "version": "1.0.0",
+  "description": "A tiny module for Optimizely X OAuth2",
+  "main": "index.js",
+  "repository": "https://yjimk@github.com/yjimk/optimizely-oauth2.git",
+  "author": "Jimmy Cann <mail@jimmycann.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "express": "^4.14.1",
+    "open": "^0.0.5",
+    "qs": "^6.3.1",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-mocha": "^4.8.0",
+    "eslint-plugin-promise": "^3.4.1",
+    "eslint-plugin-standard": "^2.0.1"
+  }
+}
