@@ -1,6 +1,6 @@
 {
   "name": "optimizely-oauth2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tiny module for Optimizely X OAuth2",
   "main": "./lib/optx-oauth.js",
   "repository": "https://yjimk@github.com/yjimk/optimizely-oauth2.git",
@@ -14,7 +14,6 @@
     "bluebird": "^3.4.7",
     "express": "^4.14.1",
     "open": "^0.0.5",
-    "qs": "^6.3.1",
     "request": "^2.79.0"
   },
   "devDependencies": {
