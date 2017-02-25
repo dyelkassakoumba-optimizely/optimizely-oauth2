@@ -1,10 +1,14 @@
 {
   "name": "optimizely-oauth2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tiny module for Optimizely X OAuth2",
-  "main": "index.js",
+  "main": "./lib/optx-oauth.js",
   "repository": "https://yjimk@github.com/yjimk/optimizely-oauth2.git",
   "author": "Jimmy Cann <mail@jimmycann.com>",
+  "keywords": [
+    "Optimizely",
+    "Optimizely OAuth"
+  ],
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.7",
